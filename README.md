@@ -1,7 +1,9 @@
 # 1.17 伺服器使用的DataPack介紹&資料彙整
-多人純原版生存 (fabric 1.17.1伺服器 on [Aternos](https://aternos.org))  
-PCL登入器 (多版本管理、Mod管理 etc.) 作者：[龙腾猫跃](https://afdian.net/@LTCat)  
-> Release 2.2.3 [▸載點](https://wwa.lanzoui.com/itF48uzxokh)
+- 多人純原版生存 (fabric 1.17.1伺服器 on [Aternos](https://aternos.org))  
+- PCL登入器 (多版本管理、Mod管理 etc.) 作者：[龙腾猫跃](https://afdian.net/@LTCat)  
+  > Release 2.2.3 [▸載點](https://wwa.lanzoui.com/itF48uzxokh)
+- 只要伺服器上1/3的人口在睡覺，就可跳過夜晚
+  > /gamerule playersSleepingPercentage 33
 ## 1.地形生成類：
 ### **a. Dungeon Now Loading 15.5%** [▸連結](https://www.planetminecraft.com/data-pack/dungeon-now-loading-5-new-dungeons-5-new-bosses/)
 > 新增11種地牢結構與10種Boss、打敗Boss後可以得到特殊的戰利品，用來提升最大血量。  
@@ -28,8 +30,8 @@ PCL登入器 (多版本管理、Mod管理 etc.) 作者：[龙腾猫跃](https://
 > + 日式村民村莊 [▸連結](https://www.planetminecraft.com/data-pack/flower-forest-villages-addon-for-william-wyther-s-overhauled-overworld/)
 > + 飛船及小屋by 16bitmap [▸連結](https://www.planetminecraft.com/data-pack/bitpack-by-16bitmap-add-on-for-william-wythers-overhauled-overworld-1-17/)
 > + 地下結構以及刌民堡壘 by Enders Host, Robert0213 [▸連結](https://www.planetminecraft.com/data-pack/dungeons-amp-strongholds-add-on-for-william-wythers-overhauled-overworld-1-17/)
-> + add-on-by-kubek-bibanul-femeilor-outposts [▸ X]()
-> + add-on-by-kubek-villages-e2380 [▸ X]()
+> + add-on-by-kubek-bibanul-femeilor-outposts [▸ 404-not-found]()
+> + add-on-by-kubek-villages-e2380 [▸ 404-not-found]()
 > + add-on-towns-and-towers-e3230 [▸連結](https://www.planetminecraft.com/data-pack/more-villlages-add-on-for-william-wythers-overhauled-overworld-1-17/)  
 > 
 `00-more-structures-engine-1-17.zip`  
@@ -66,7 +68,7 @@ PCL登入器 (多版本管理、Mod管理 etc.) 作者：[龙腾猫跃](https://
 `VanillaTweaks_player head drops v1.1.0.zip`  
 6. 加入綑綁包配方以及更大的容量 [▸連結](https://www.planetminecraft.com/data-pack/bigger-bundles-more-bundle-storage-1-17x/)  
 `Bigger Bundles.zip`  
-7. 顯示玩家的血量 (需啟動：/function h:start) [▸連結](https://www.planetminecraft.com/data-pack/health/)  
+7. 顯示玩家的血量 (啟動需輸入：/function h:start) [▸連結](https://www.planetminecraft.com/data-pack/health/)  
 `Show Player Health.zip`  
 8. 顯示怪物的血量 [▸連結](https://www.curseforge.com/minecraft/customization/mob-health-bar-dp)  
 `Mob+Health+Bar+[1.5.1]+[1.17.x].zip`  
